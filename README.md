@@ -34,16 +34,12 @@ cd House-Price-Prediction
 pip install -r requirements.txt
 python house_prediction.py
 
-What I Learned
+## What I Learned
 
 Training and evaluating a Linear Regression model.
 
 Interpreting important metrics: R², RMSE, MAE.
 
 Visualizing model performance clearly.
-
-Scikit-learn – Linear Regression & evaluation metrics
-
-Matplotlib – visualization
 
 
