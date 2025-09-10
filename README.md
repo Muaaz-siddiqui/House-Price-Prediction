@@ -27,12 +27,6 @@ Python 🐍
 Pandas – data handling
 
 NumPy – numerical operations
-##  How to Run It
-```bash
-git clone https://github.com/Muaaz-siddiqui/House-Price-Prediction.git
-cd House-Price-Prediction
-pip install -r requirements.txt
-python house_prediction.py
 
 ## What I Learned
 
@@ -41,5 +35,14 @@ Training and evaluating a Linear Regression model.
 Interpreting important metrics: R², RMSE, MAE.
 
 Visualizing model performance clearly.
+
+##  How to Run It
+```bash
+git clone https://github.com/Muaaz-siddiqui/House-Price-Prediction.git
+cd House-Price-Prediction
+pip install -r requirements.txt
+python house_prediction.py
+
+
 
 
